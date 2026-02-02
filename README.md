@@ -28,6 +28,8 @@ Aussi, ce qu'il faut avoir en tête, c'est que vous n’avez pas besoin d’avoi
 >
 >Edward Snowden.
 
+Alors, il ne vas pas être question ici de vous rendre paranoïaque, (même s'il y a de quoi), et de vous donner les clés d'une sécurité de votre vie privée du plus haut niveau. Non, ici l'objectif sera d'établir des maneuvres et configurations (notamment sur Windows car la plupart d'entre vous sont dessus) afin que la protection de vos données personnelles soit davantage au cœur de vos préocupation.
+
 Bon, assez parler, démarrons avec la pratique désormais.
 
 
